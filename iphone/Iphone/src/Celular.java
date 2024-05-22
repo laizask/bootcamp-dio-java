@@ -23,7 +23,6 @@ public class Celular implements ReprodutorMusical, AparelhoTelefonico, Navegador
 		System.out.println("Exibindo Página");
 	}
 
-	
 	public void adicionarNovaAba(String url) {
 		System.out.println("Adicionando nova Aba");
 	}
@@ -42,17 +41,14 @@ public class Celular implements ReprodutorMusical, AparelhoTelefonico, Navegador
 		System.out.println("Atendendo ligação");	
 	}
 
-
 	public void iniciarCorreioVoz() {
 		System.out.println("Iniciando correio de voz!");
 	}
 
-	
 	public void tocar() {
 		System.out.println("Tocando música");		
 	}
 
-	
 	public void pausar() {
 		System.out.println("Pausando música");
 	}
