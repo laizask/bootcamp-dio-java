@@ -1,5 +1,5 @@
 
-package operacoesbasicas;
+package operacoesbasicas.list;
 
 public class Livro {
     private String titulo;
